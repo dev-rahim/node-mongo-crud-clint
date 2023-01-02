@@ -1,0 +1,18 @@
+.header {
+    padding: 10px;
+    border: 2px solid seashell;
+
+}
+
+.header nav a {
+    text-decoration: none;
+    margin-right: 20px;
+    color: black;
+    padding: 0 5px;
+
+}
+
+.header nav a:hover {
+    background-color: lightblue;
+    color: black;
+}
